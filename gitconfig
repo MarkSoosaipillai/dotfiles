@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = markbrian14@hotmail.com
+	name = Mark Soosaipillai
